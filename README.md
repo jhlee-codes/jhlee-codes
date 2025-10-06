@@ -106,9 +106,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧥 [**Otboo**](https://github.com/otboo-team3/otboo) | **개인화 의상·아이템 추천 SaaS** <br> 등록한 옷 + 실시간 날씨로 맞춤 코디 추천, OOTD 피드 공유 | Spring Boot · Redis · Kafka · PostgreSQL |
-| 📰 [**Monew**](https://github.com/jhlee-codes/monew) | **관심사 기반 뉴스 통합 관리** <br> 다양한 출처 기사 저장/분류, 알림·댓글·좋아요 제공 | Spring Boot · JPA · PostgreSQL |
-| 🏢 [**Hrbank**](https://github.com/jhlee-codes/hrbank) | **디지털 인사관리 시스템** <br> 직원/부서·파일·대시보드·백업 | Spring Boot · PostgreSQL · Scheduler |
+| 🧥 [**Otboo**](https://github.com/33otot/sb03-otboo-team03) | **개인화 의상·아이템 추천 SaaS** <br> 등록한 옷 + 실시간 날씨로 맞춤 코디 추천, OOTD 피드 공유 | Spring Boot · Redis · Kafka · PostgreSQL |
+| 📰 [**Monew**](https://github.com/sb3-monew-team1/sb03-monew-team1) | **관심사 기반 뉴스 통합 관리** <br> 다양한 출처 기사 저장/분류, 알림·댓글·좋아요 제공 | Spring Boot · JPA · PostgreSQL |
+| 🏢 [**Hrbank**](https://github.com/sb3-HRBANK-team4/sb3-hrbank-team4) | **디지털 인사관리 시스템** <br> 직원/부서·파일·대시보드·백업 | Spring Boot · PostgreSQL · Scheduler |
 ---
 
 ### ✍️ Latest Blog Posts
