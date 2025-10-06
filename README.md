@@ -1,5 +1,4 @@
 <!-- 👋 HEADER -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=Jihyun%20Lee&fontAlign=50&fontSize=46&desc=Backend%20Engineer&descAlign=50&descAlignY=70"
@@ -9,23 +8,11 @@
 
 ---
 
-<h3 align="center">📫 Contact</h3>
-<p align="center">
-  <a href="https://velog.io/@jh_devlog/posts">
-    <img src="https://img.shields.io/badge/Velog-@jh__devlog-20C997?logo=velog&style=for-the-badge" alt="Velog" />
-  </a>
-
-  <a href="mailto:jhleezz00@naver.com">
-    <img src="https://img.shields.io/badge/Email-jhleezz00%40naver.com-000000?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-</p>
-
+## 🧠 About Me
 
 ---
 
-
 ## 🧰 Tech Stack
-
 <h3 align="center">🧱 Backend</h3>
 <div align="center">
   
@@ -108,25 +95,24 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | 🧥 [**Otboo**](https://github.com/33otot/sb03-otboo-team03) | **개인화 의상·아이템 추천 SaaS** <br> 등록한 옷 + 실시간 날씨로 맞춤 코디 추천, OOTD 피드 공유 | Spring Boot · Redis · Kafka · PostgreSQL |
-| 📰 [**Monew**](https://github.com/sb3-monew-team1/sb03-monew-team1) | **관심사 기반 뉴스 통합 관리** <br> 다양한 출처 기사 저장/분류, 알림·댓글·좋아요 제공 | Spring Boot · JPA · PostgreSQL |
+| 📰 [**Monew**](https://github.com/sb3-monew-team1/sb3-monew-team1) | **관심사 기반 뉴스 통합 관리** <br> 다양한 출처 기사 저장/분류, 알림·댓글·좋아요 제공 | Spring Boot · JPA · PostgreSQL |
 | 🏢 [**Hrbank**](https://github.com/sb3-HRBANK-team4/sb3-hrbank-team4) | **디지털 인사관리 시스템** <br> 직원/부서·파일·대시보드·백업 | Spring Boot · PostgreSQL · Scheduler |
+
 ---
 
-### ✍️ Latest Blog Posts
-
-<!-- Velog-feed 자동 갱신 배지 -->
+## ✍️ Latest Blog Posts
 [![Velog Badge](https://img.shields.io/badge/Velog-@jh__devlog-20C997?style=flat&logo=velog)](https://velog.io/@jh_devlog/posts)
 
-> 💡 *최근 학습 내용과 트러블슈팅 경험을 기록하고 있습니다.*
+💡 *최근 학습 내용과 트러블슈팅 경험을 기록하고 있습니다.*
 
 ---
 
-### 🧩 GitHub Stats
+## 🧩 GitHub Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhlee-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -136,32 +122,28 @@
 
 ---
 
-### 🥇 Baekjoon Online Judge
+## 🥇 Baekjoon Online Judge
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhleezz00)](https://solved.ac/jhleezz00)
 
 </div>
 
+---
+
+## 📫 Contact
+<p align="center">
+  <a href="https://velog.io/@jh_devlog/posts">
+    <img src="https://img.shields.io/badge/Velog-@jh__devlog-20C997?logo=velog&style=for-the-badge" alt="Velog" />
+  </a>
+  &nbsp;
+  <a href="mailto:jhleezz00@naver.com">
+    <img src="https://img.shields.io/badge/Email-jhleezz00%40naver.com-000000?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting%20💫&height=100&section=footer" />
 </p>
-
-
-<!--
-**jhlee-codes/jhlee-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
