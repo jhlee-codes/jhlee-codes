@@ -1,6 +1,11 @@
 <!-- 👋 HEADER -->
-<h2 align="center">👋 Jihyun Lee</h2>
-<p align="center">백엔드 개발자 | Java & Spring Boot 🌱</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=Jihyun%20Lee&fontAlign=50&fontSize=46&desc=Backend%20Engineer&descAlign=50&descAlignY=70"
+    alt="Jihyun Lee"
+  />
+</p>
 
 ---
 
@@ -12,9 +17,10 @@
 
 ---
 
+
 ## 🧰 Tech Stack
 
-### 🧱 Backend  
+<h3 align="center">🧱 Backend</h3>
 <div align="center">
   
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -26,9 +32,7 @@
 
 </div>
 
----
-
-### 🌐 Languages  
+<h3 align="center">🌐 Languages</h3>
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,9 +41,7 @@
 
 </div>
 
----
-
-### 🎨 Frontend  
+<h3 align="center">🎨 Frontend</h3>
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,9 +49,7 @@
 
 </div>
 
----
-
-### 🧪 Test & Build  
+<h3 align="center">🧪 Test & Build</h3>
 <div align="center">
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-E33332?style=for-the-badge&logo=junit5&logoColor=white)
@@ -61,9 +61,7 @@
 
 </div>
 
----
-
-### 🗄️ Database & Cache  
+<h3 align="center">🗄️ Database & Cache</h3>
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,9 +73,7 @@
 
 </div>
 
----
-
-### ☁️ Infra & DevOps  
+<h3 align="center">☁️ Infra & DevOps</h3>
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -87,9 +83,7 @@
 
 </div>
 
----
-
-### 🔔 Messaging & Realtime  
+<h3 align="center">🔔 Messaging & Realtime</h3>
 <div align="center">
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -97,9 +91,7 @@
 
 </div>
 
----
-
-### 🧭 Tools & Docs  
+<h3 align="center">🧭 Tools & Docs</h3>
 <div align="center">
 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
@@ -113,11 +105,10 @@
 ### 🚀 Projects
 
 | Project | Description | Tech |
-|----------|--------------|------|
-| 🧥 [**Otboo**](https://github.com/otboo-team3/otboo) | **개인화 의상·아이템 추천 SaaS** <br> 사용자가 등록한 옷과 실시간 날씨를 결합해 맞춤 코디를 추천하고, OOTD 피드로 공유/소통 | Spring Boot · Redis · Kafka · PostgreSQL |
-| 📰 [**Monew**](https://github.com/jhlee-codes/monew) | **관심사 기반 뉴스 통합 관리 플랫폼** <br> 다양한 출처의 뉴스를 한곳에 모아 저장/분류하고, 알림과 좋아요·댓글로 소셜 인터랙션 제공 | Spring Boot · JPA · PostgreSQL |
-| 🏢 [**Hrbank**](https://github.com/jhlee-codes/hrbank) | **디지털 인사관리 시스템** <br> 직원/부서 정보 관리, 파일 관리, 직원 수 기반 통계 대시보드, 데이터 백업 | Spring Boot · PostgreSQL · Scheduler |
-
+|---|---|---|
+| 🧥 [**Otboo**](https://github.com/otboo-team3/otboo) | **개인화 의상·아이템 추천 SaaS** <br> 등록한 옷 + 실시간 날씨로 맞춤 코디 추천, OOTD 피드 공유 | Spring Boot · Redis · Kafka · PostgreSQL |
+| 📰 [**Monew**](https://github.com/jhlee-codes/monew) | **관심사 기반 뉴스 통합 관리** <br> 다양한 출처 기사 저장/분류, 알림·댓글·좋아요 제공 | Spring Boot · JPA · PostgreSQL |
+| 🏢 [**Hrbank**](https://github.com/jhlee-codes/hrbank) | **디지털 인사관리 시스템** <br> 직원/부서·파일·대시보드·백업 | Spring Boot · PostgreSQL · Scheduler |
 ---
 
 ### ✍️ Latest Blog Posts
@@ -132,8 +123,8 @@
 ### 🧩 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhlee-codes&show_icons=true&theme=transparent&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlee-codes&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhlee-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlee-codes&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -145,7 +136,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhleezz00)](https://solved.ac/jhleezz00)
 
 </div>
-
 
 
 ---
