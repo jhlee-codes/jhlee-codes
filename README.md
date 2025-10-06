@@ -9,11 +9,17 @@
 
 ---
 
-### 🧠 About Me
-> 
+<h3 align="center">📫 Contact</h3>
+<p align="center">
+  <a href="https://velog.io/@jh_devlog/posts">
+    <img src="https://img.shields.io/badge/Velog-@jh__devlog-20C997?logo=velog&style=for-the-badge" alt="Velog" />
+  </a>
 
-📚 Velog: [https://velog.io/@jh_devlog/posts](https://velog.io/@jh_devlog/posts)  
-📫 Email: [jhleezz00@naver.com](mailto:jhleezz00@naver.com)
+  <a href="mailto:jhleezz00@naver.com">
+    <img src="https://img.shields.io/badge/Email-jhleezz00%40naver.com-000000?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</p>
+
 
 ---
 
